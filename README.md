@@ -17,3 +17,7 @@
 เครื่องมือ
 1) soldering iron (สำหรับให้ความร้อนในการประสานรอยของSolder)
 2) PCB Hook Knife (สำหรับตัดแผ่นPerfboardให้ได้ขนาด)
+
+<img width="364" height="523" alt="Transmitter(TX)" src="https://github.com/user-attachments/assets/27727572-98e1-4b8a-abf5-16dd5427caf8" />
+
+<img width="369" height="531" alt="Receiver(Rx)" src="https://github.com/user-attachments/assets/f3ce6ace-051c-4462-a353-392538c12a17" />
