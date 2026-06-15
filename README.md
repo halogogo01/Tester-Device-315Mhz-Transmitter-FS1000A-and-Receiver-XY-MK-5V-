@@ -21,6 +21,16 @@
 2) PCB Hook Knife (สำหรับตัดแผ่นPerfboardให้ได้ขนาด)
 
 
+ฉันจำลองการเชื่อมต่อ
+
+Transmitter(Tx)
+<img width="310" height="414" alt="Tx" src="https://github.com/user-attachments/assets/cbb87b38-089f-4916-97d9-2ea3c088d916" />
+
+Receiver(Rx)
+<img width="314" height="414" alt="Rx" src="https://github.com/user-attachments/assets/eaa84cd5-13f8-46ee-9a03-623151f136d0" />
+
+
+
 ฉันจำลองการเชื่อมต่อPerfboardผ่านโปรแกรม "DIY Layout Creator" (เพื่อจะได้รู้ว่าต้องตัดPerfboardขนาดเท่าไหล)
 
 Transmitter(Tx)
